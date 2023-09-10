@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Hello%20I'm%20TaeYoung&fontSize=40)  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 
- <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
 <!--
 **Taeyoungleee/Taeyoungleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
