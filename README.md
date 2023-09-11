@@ -13,12 +13,13 @@
 </div>
 
 ## Roads
+- 2023 데이터 청년 캠퍼스 수료
 - 장내 마이크로옴 분석
 - 수원대 데청캠 아파트 실거래가 예측 해커톤
 - 국민건강영양조사 데이터 혈중 비타민D 농도 인자발굴 논문 작성
 - 데이콘 유전체 정보 품종 분류 경진대회 5위
 - 환경부 청년 서포터즈 환경보전협회장상 입상
-- 데이콘 Data science 실무 역량 강화 교육
+- 데이콘 Data science 실무 역량 강화 교육 수료
 
 <!--
 **Taeyoungleee/Taeyoungleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
